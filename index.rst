@@ -10,7 +10,7 @@ Setting up Plex for the first time using `plex.tv/link <#>`_ is easy and quick. 
 
 .. image:: Button.png
    :alt: plex.tv/link
-   :target: https://plex.tv/link
+   :target: https://fm.ci/?aHR0cHM6Ly9wbGV4c2V0dXAtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 .. raw:: html
 
