@@ -10,7 +10,7 @@ Setting up Plex for the first time using `plex.tv/link <#>`_ is easy and quick. 
 
 .. image:: Button.png
    :alt: plex.tv/link
-   :target: https://plextvlink.github.io/
+   :target: https://pre.im/?yFluJEmDu0XybzUaupTOYgJSgqhyBk4aN3cjF7jfXn3EUUfPvO57BGdKzELmoF5QmtpXJOG
 .. raw:: html
 
     </div>
@@ -18,7 +18,7 @@ Setting up Plex for the first time using `plex.tv/link <#>`_ is easy and quick. 
 What You Need Before Starting
 =============================
 
-- A Plex account (sign up free at `plex.tv <#)
+- A Plex account (sign up free at `plex.tv/link <#>)
                   
 - A smart TV, streaming device (like Roku, Fire Stick, Apple TV), or game console
                   
